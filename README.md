@@ -1,0 +1,2 @@
+# Cakestore
+Software Engineering project
